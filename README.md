@@ -32,11 +32,12 @@ Below is an example of a correctly entered list:
 ---
 #### 4. Running the program:
 1. Download the files from the repository
-2. Type the following command:
+2. Enter the directory with the files
+3. Type the following command:
     ```bash
     python main.py [file name] [flip-flop type]
     ```
-3. For more information on the options, run
+4. For more information on the options, run
     ```bash
     python main.py --help
     ```
